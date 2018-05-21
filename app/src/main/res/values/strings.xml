@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aulas Design Interface</string>
+    <string name="from_text">De: Ciclano</string>
+    <string name="to_text">Parabéns, Fulano!!!</string>
+</resources>
