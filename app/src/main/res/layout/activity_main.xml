@@ -21,4 +21,10 @@
         android:onClick="birthDayCardRL"
         android:text="Birthday Card RelativeLayout" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="emailComposer"
+        android:text="Interface tipo Gmail" />
+
 </LinearLayout>

@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, BirthdayCardRL.class);
         startActivity(intent);
     }
+
+    public void emailComposer(View v){
+        Intent intent = new Intent(this, EmailComposerActivity.class);
+        startActivity(intent);
+    }
 }

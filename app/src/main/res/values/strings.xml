@@ -2,4 +2,12 @@
     <string name="app_name">Aulas Design Interface</string>
     <string name="from_text">De: Ciclano</string>
     <string name="to_text">Parabéns, Fulano!!!</string>
+
+    <string-array name="emails">
+        <item>hallison.paz@prof.infnet.edu.br</item>
+        <item>hallison.dapaz@gmail.com</item>
+        <item>hallpaz@pythoncafe.com.br</item>
+        <item>hallpaaz@gmail.com</item>
+        <item>hallpaz@impa.br</item>
+    </string-array>
 </resources>
