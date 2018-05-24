@@ -14,6 +14,11 @@
         android:layout_height="wrap_content"
         android:onClick="birthDayCardLL"
         android:text="Birthday Card LinearLayout" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="birthDayCardFrameLayout"
+        android:text="Birthday Card FrameLayout" />
 
     <Button
         android:layout_width="match_parent"

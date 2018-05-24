@@ -23,6 +23,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void birthDayCardFrameLayout(View v){
+        Intent intent = new Intent(this, BirthdayCardFrameLayout.class);
+        startActivity(intent);
+    }
+
     public void emailComposer(View v){
         Intent intent = new Intent(this, EmailComposerActivity.class);
         startActivity(intent);

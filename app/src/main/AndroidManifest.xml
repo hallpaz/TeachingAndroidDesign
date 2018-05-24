@@ -30,7 +30,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".EmailComposerActivity"></activity>
+        <activity android:name=".EmailComposerActivity" />
+        <activity android:name=".BirthdayCardFrameLayout"></activity>
     </application>
 
 </manifest>
